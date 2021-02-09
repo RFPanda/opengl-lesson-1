@@ -6,5 +6,5 @@
 
 **Screenshots**
 
-[![1](https://github.com/RFPanda/opengl-lesson-1/blob/main/assets/git-assets/png1.png)]
+[![1](https://github.com/RFPanda/opengl-lesson-1/tree/main/assets/git-assets/png1.png)]
 
